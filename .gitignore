@@ -1,3 +1,5 @@
 wavs/
-*.m4a
-*.csv
+temps/
+wandb/
+cookies.txt
+unbalanced_train_segments/
